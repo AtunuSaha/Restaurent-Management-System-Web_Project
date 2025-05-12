@@ -43,7 +43,8 @@ Update Profile-
 Menu-
 ![image](https://github.com/user-attachments/assets/5b82f8a2-0358-4e9b-8639-175b30450243)
 
-🚀 Future Enhancements
+🚀 Future Enhancements-
+
 📌Admin dashboard for menu/order management 🧑‍💼
 
 📌Mobile-friendly UI 📱
