@@ -1,4 +1,4 @@
-# Restaurent-Management-System-Web_Project
+# Restaurant-Management-System-Web_Project
 🍽️ Restaurant Management System (Customer Panel)
 This Restaurant Management System is a web-based platform focused on enhancing the customer's dining experience. Developed as a Web Technology course project, it allows users to browse the menu, manage their cart, place orders, give reviews, and send complaints—all through an interactive interface.
 
